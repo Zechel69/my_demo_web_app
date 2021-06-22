@@ -1,2 +1,2 @@
 # my_demo_web_app
-Demo web app
+Browser app created with git, streamlit library and heroku. First version.
